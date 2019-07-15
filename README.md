@@ -1,4 +1,4 @@
-# Aloha10G
+# hadoopTera
 This is a project for the assignment of CSC 550 Big Data. 
 
 ## 1. Quick Start
